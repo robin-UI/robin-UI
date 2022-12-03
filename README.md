@@ -18,29 +18,28 @@
 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
             <img src="https://skillicons.dev/icons?i=angular"
-                alt="angularjs" width="40" height="40" />
+                alt="angularjs" />
         </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                 src="https://skillicons.dev/icons?i=react"
-                alt="react" width="40" height="40" />
+                alt="react" />
         </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
                 src="https://skillicons.dev/icons?i=redux"
-                alt="redux" width="40" height="40" />
+                alt="redux" />
         </a>
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
                 src="https://skillicons.dev/icons?i=vue"
-                alt="vuejs" width="40" height="40" />
+                alt="vuejs" />
         </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
                 src="https://skillicons.dev/icons?i=webpack"
-                alt="webpack" width="40" height="40" /> </a>
+                alt="webpack"  /> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-            <img src="babel" alt="babel" width="40" height="40" />
+            <img src="https://skillicons.dev/icons?i=babel" alt="babel" />
         </a>
 <a href="https://nextjs.org/" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"
-                height="40" /> </a> 
+            rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /> </a> 
     </p>
 
     
