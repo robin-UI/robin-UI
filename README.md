@@ -11,7 +11,7 @@
 <h3 align="left">- I currently working: 🧰</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,twitter" />
   </a>
 </p>
 <p align="left">
