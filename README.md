@@ -161,7 +161,7 @@
         src="https://github-readme-stats.vercel.app/api?username=robinbiju&show_icons=true&locale=en"
         alt="robinbiju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinbiju&" alt="robinbiju" />
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinbiju&" alt="robinbiju" />
     </p>
 <br>
 <br>
