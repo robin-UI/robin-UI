@@ -119,34 +119,34 @@
  <h3 align="left">- Designing Tools : 🖌️</h3>
  <p align="left">
         <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
-            src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-            width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+            src="https://skillicons.dev/icons?i=blender" alt="blender"
+             /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            src="https://skillicons.dev/icons?i=figma" alt="figma" /> </a>
      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+            alt="illustrator" width="50" height="50" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
         rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
+            src="https://skillicons.dev/icons?i=ps"
+            alt="photoshop"  /> </a> <a href="https://www.adobe.com/products/xd.html"
         target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-            width="40" height="40" /> </a>
+            width="50" height="50" /> </a>
     </p>
 
 <h3 align="left">- Development Tools : 🛠️</h3>
     <p align="left">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux" width="40" height="40" /> 
+            src="https://skillicons.dev/icons?i=linux"
+            alt="linux" /> 
         </a>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
         </a>
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> 
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50"
+            height="50" /> 
         </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
         </a> 
     </p>
 
@@ -165,15 +165,15 @@
  <h2 align="center">Connect with me:</h2>
     <p align="center">
         <a href="https://twitter.com/robinme12" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                src="https://skillicons.dev/icons?i=twitter"
                 alt="robinme12" height="30" width="40" /></a>
                 <span>________</span>
         <a href="https://linkedin.com/in/https://www.linkedin.com/in/robin-biju-195a8a245/" target="blank"><img
                 align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                src="https://skillicons.dev/icons?i=linkedin"
                 alt="https://www.linkedin.com/in/robin-biju-195a8a245/" height="30" width="40" /></a>
                 <span>________</span>
         <a href="https://instagram.com/https://www.instagram.com/robin_____000000/" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                src="https://skillicons.dev/icons?i=instagram"
                 alt="https://www.instagram.com/robin_____000000/" height="30" width="40" /></a>
     </p>
